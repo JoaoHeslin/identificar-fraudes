@@ -1,0 +1,2 @@
+A base de dados não pôde ser incluída diretamente no repositório devido ao seu tamanho exceder o limite permitido pelo GitHub.
+Link para a Base de Dados: https://drive.google.com/file/d/17DTi7XN6sXYmDMpjKnKAq5cBKU_Cx6Cv/view?usp=sharing 
